@@ -1,0 +1,51 @@
+Changelog for Publisho WordPress Magazine Theme 
+Visit https://themonic.com/ for latest version
+
+= 1.9 =
+* Released: July 16, 2020
+* Removed current menu highlight in top menu
+* Added wp_body_open function
+
+
+= 1.8 =
+* Released: June 04, 2020
+* Mobile styles updated
+* CSS bug fixes
+* Added readme.txt with WordPress, PHP compatibility information
+* Test version with WordPress 5.4.1
+
+Version 1.73 (17 April 2019)
+
+* Mobile menu spacing fix
+* https URL change in description
+
+Version 1.72 (16 April 2019)
+
+* Bug fixes
+
+Version 1.71 (16 April 2019)
+
+* Responsive improvements and fine tuning for mobile devices
+
+Version 1.6 (30 March 2019)
+
+* Theme test translation warning fixed
+
+Version 1.51 (29 March 2019)
+
+* Added default featured image
+
+Version 1.4 (09 July 2018)
+
+* Responsive improvements
+* Mobile view updated
+* Style fixes
+
+Version 1.2
+
+* Google Font loading fix
+* Theme tags updated
+
+Version 1.15
+
+* Initial public release!

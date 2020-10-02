@@ -1,0 +1,506 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Blos\n"
+"POT-Creation-Date: 2019-05-29 00:04+0300\n"
+"PO-Revision-Date: 2019-05-29 00:04+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:25
+msgid "Home Back"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:17
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:19
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: functions.php:44
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:107
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:30
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/bootstrap/wp_bootstrap_navwalker.php:731
+msgid "Add a menu"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:62
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:72
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:89 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:13
+msgid "See Pro Version Wordpress Themes in This Area"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:14
+msgid "Enjoy your wordpress site with more professional features"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: inc/welcome/sections/actions-required.php:23
+msgid "Blos"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:27
+msgid "Blos - Portfolio Wordpress Theme"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:38
+msgid "Carrying Trade"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:42
+msgid "Carrying Trade - Logistic Wordpress Theme"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:53
+msgid "Concern"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:57
+msgid "Concern - Business Wordpress Theme"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:68
+msgid "Congenial"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:72
+msgid "Congenial - Woocommerce Wordpress Theme"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:84
+msgid "Discrete"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:88
+msgid "Discrete - Structure Wordpress Theme"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:99
+msgid "Gracious"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:103
+msgid "Gracious - Personal Wordpress Theme"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:114
+msgid "Immovables"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:118
+msgid "Immovables - Real Estate Wordpress Theme"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:129
+msgid "blos"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:133
+msgid "blos - Portfolio Wordpress Theme"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:144
+msgid "Unstuck"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:148
+msgid "Unstuck - Dashboard Bootstrap Template"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:159
+msgid "World Blog"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:163
+msgid "World Blog - Blog Wordpress Theme"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:174
+msgid "Xtron"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:178
+msgid "Xtron - Multipurpose Blog Wordpress Theme"
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:14
+msgid "Blos About"
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:15
+msgid ""
+"Flexible theme is a multipurpose wordpress theme. All devices are responsive "
+"and seemingly manageable. By enabling different layouts, multiple sites can "
+"be created."
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:17
+msgid ""
+"If you are using wordpress for the first time, you can get information from "
+"our website. Wordpress has easy interface. Very easy to use. Try it once. "
+"Its easy to understand everything. Be sure to make all your settings. Enjoy "
+"this theme"
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:23
+msgid "blos Macbook"
+msgstr ""
+
+#: inc/welcome/sections/github.php:12
+msgid "Why paid theme"
+msgstr ""
+
+#: inc/welcome/sections/github.php:13
+msgid ""
+"Makes your site more professional by getting the most ideal paid themes for "
+"more professional features"
+msgstr ""
+
+#: inc/welcome/sections/github.php:19
+msgid "SEO Friendly URL"
+msgstr ""
+
+#: inc/welcome/sections/github.php:20
+msgid ""
+"This feature helps to rename the slug name from the persistent connection "
+"URL and allows you to be SEO friendly."
+msgstr ""
+
+#: inc/welcome/sections/github.php:26
+msgid "Content Management"
+msgstr ""
+
+#: inc/welcome/sections/github.php:27
+msgid ""
+"The new version of Wordpress has renewed the editor. You can still use the "
+"old editor. Switch to the old editor by activating the classic editor plug-"
+"in."
+msgstr ""
+
+#: inc/welcome/sections/github.php:33
+msgid "Write a blog"
+msgstr ""
+
+#: inc/welcome/sections/github.php:34
+msgid ""
+"Click on the posts menu in the side menu.You'll know how to create your blog "
+"posts. Create your category and tags with images"
+msgstr ""
+
+#: inc/welcome/sections/github.php:40
+msgid "Media"
+msgstr ""
+
+#: inc/welcome/sections/github.php:41
+msgid ""
+"You want your videos to appear on your media, your images, and the page you "
+"want. Add pictures and videos with Plugin tools"
+msgstr ""
+
+#: inc/welcome/sections/github.php:47
+msgid "Create pages"
+msgstr ""
+
+#: inc/welcome/sections/github.php:48
+msgid ""
+"Click the side menu page button and wordpress will help you create unlimited "
+"pages. With the new button you can perform your steps"
+msgstr ""
+
+#: inc/welcome/sections/github.php:54
+msgid "Comments"
+msgstr ""
+
+#: inc/welcome/sections/github.php:55
+msgid ""
+"Comments on your posts appear in the list under the comments tab. Just "
+"waiting for your confirmation"
+msgstr ""
+
+#: inc/welcome/sections/github.php:61
+msgid "Apperance"
+msgstr ""
+
+#: inc/welcome/sections/github.php:62
+msgid ""
+"You can find information such as theme selection, customizations, widgets, "
+"theme etc"
+msgstr ""
+
+#: inc/welcome/sections/github.php:68
+msgid "Plugins"
+msgstr ""
+
+#: inc/welcome/sections/github.php:69
+msgid ""
+"Use this section to install the new plugin and download an add-on from "
+"wordpress.org"
+msgstr ""
+
+#: inc/welcome/sections/github.php:75
+msgid "Users"
+msgstr ""
+
+#: inc/welcome/sections/github.php:76
+msgid ""
+"Create users and give them roles. You can create restricted users to "
+"access . Enjoy this section"
+msgstr ""
+
+#: inc/welcome/sections/github.php:82
+msgid "Tools"
+msgstr ""
+
+#: inc/welcome/sections/github.php:83
+msgid ""
+"Tools will help you to make your work easier. Many options like storing page "
+"backups etc. Very useful for import or export your pages and others"
+msgstr ""
+
+#: inc/welcome/sections/github.php:89
+msgid "Settings"
+msgstr ""
+
+#: inc/welcome/sections/github.php:90
+msgid ""
+"Your site settings, description, password refresh ,your front page settings "
+"and blog posts , a lot of permanent links will help you make your settings "
+msgstr ""
+
+#: inc/welcome/sections/github.php:97
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/welcome/sections/github.php:98
+msgid ""
+"Configure your theme options and import your desired edits and start "
+"building thousands of sites"
+msgstr ""
+
+#: inc/welcome/sections/github.php:104
+msgid "Support"
+msgstr ""
+
+#: inc/welcome/sections/github.php:105
+msgid "Get a new product and benefit from lifetime technical support services"
+msgstr ""
+
+#: inc/welcome/welcome-screen.php:42
+msgid ""
+"Welcome! Thank you for choosing the blos multipurpose wp theme! Start by "
+"examining usage to fully utilize the best advantage your theme offers"
+msgstr ""
+
+#: inc/welcome/welcome-screen.php:43
+msgid "Start using the blos theme"
+msgstr ""
+
+#: inc/welcome/welcome-screen.php:81
+msgid "No action is required for you right now."
+msgstr ""
+
+#: inc/welcome/welcome-screen.php:116
+msgid "View Theme Info"
+msgstr ""
+
+#: inc/welcome/welcome-screen.php:169
+msgid "Beginning"
+msgstr ""
+
+#: inc/welcome/welcome-screen.php:170
+msgid "Descriptions"
+msgstr ""
+
+#: inc/welcome/welcome-screen.php:171
+msgid "Other Products"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:15
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:18
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:24 template-parts/content-single.php:24
+#: template-parts/content.php:49
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:28
+msgid "Page"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/content-single.php:43
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:38
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.atlasresponsivetasarim.com/products/blos/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A very handy theme as a personal blog or portfolio theme. The theme supports "
+"a number of arrow extensions. You can create it using the portfolio plugins "
+"in the WordPress.org repository to create your portfolio theme. Browser "
+"support and full responsive"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "atlas"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.atlasresponsivetasarim.com/"
+msgstr ""
